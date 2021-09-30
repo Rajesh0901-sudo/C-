@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512552888 source:c:\users\user\desktop\rjs\cpp\multilavel inhr\main.cpp
+	<iostream>
+	<math.h>
+

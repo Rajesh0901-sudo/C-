@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512485245 source:c:\users\user\desktop\rjs\cpp\multiple inh\main.cpp
+	<iostream>
+	<math.h>
+

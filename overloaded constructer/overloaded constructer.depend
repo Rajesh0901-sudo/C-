@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512148305 source:c:\users\user\desktop\rjs\cpp\overloaded constructer\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+

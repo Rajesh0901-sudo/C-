@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512317219 source:c:\users\user\desktop\rjs\cpp\constructer with new\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

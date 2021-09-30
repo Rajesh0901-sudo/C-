@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515734986 source:c:\users\user\desktop\rjs\cpp\console\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+
